@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hacom\\OneDrive\\Máy tính\\BTH\\TuanAnhBTH\\BTH\\BTH.csproj",
+      "projectUniqueName": "C:\\Users\\hacom\\OneDrive\\Máy tính\\TuanAnhBTH\\BTH\\BTH.csproj",
       "projectName": "BTH",
-      "projectPath": "C:\\Users\\hacom\\OneDrive\\Máy tính\\BTH\\TuanAnhBTH\\BTH\\BTH.csproj",
+      "projectPath": "C:\\Users\\hacom\\OneDrive\\Máy tính\\TuanAnhBTH\\BTH\\BTH.csproj",
       "packagesPath": "C:\\Users\\hacom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hacom\\OneDrive\\Máy tính\\BTH\\TuanAnhBTH\\BTH\\obj\\",
+      "outputPath": "C:\\Users\\hacom\\OneDrive\\Máy tính\\TuanAnhBTH\\BTH\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hacom\\AppData\\Roaming\\NuGet\\NuGet.Config",
